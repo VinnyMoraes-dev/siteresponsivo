@@ -1,0 +1,74 @@
+body {
+    background-image: url("../img/forest.jpg");
+    background-image: no-repeat;
+    opacity: 0.9;
+
+}
+
+
+h1 {
+    color: #ffffff;
+    text-shadow: black 1px 0 8px;
+    
+}
+
+.jumbotron {
+    background-color: rgb(180, 180, 231);
+    opacity: 2;
+    box-shadow: 3px 3px 10px rgb(0, 0, 0, 0.363);
+}
+
+.row div {
+    text-align: right;
+    font-weight: bold;
+    
+}
+
+.row label {
+    text-align: right;
+    font-weight: bold;
+}
+
+label {
+    color: black;
+}
+
+
+div.row{
+     margin: 5px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.span1 {
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.bloco {
+    width: 48%; 
+    float: left;
+    text-align: center;
+    padding: 5px;
+}
+
+.bloco img {
+    /* dentro do bloco a img*/
+    border-radius: 5px;
+    width: 50%;
+    box-shadow: 2px 2px 2px 2px black;
+
+}
+
+.p {
+    color: red;
+}
+
+footer {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+}
